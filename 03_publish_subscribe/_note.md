@@ -18,7 +18,7 @@ A producer : gửi messages
 
 A queue 
 
-A customer : nhận message 
+A consumer : nhận message 
 
 
 ---
